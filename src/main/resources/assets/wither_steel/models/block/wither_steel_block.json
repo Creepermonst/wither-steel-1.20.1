@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wither_steel:block/wither_steel_block"
+  }
+}

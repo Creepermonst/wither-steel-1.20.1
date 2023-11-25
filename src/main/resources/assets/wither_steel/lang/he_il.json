@@ -1,0 +1,27 @@
+{
+  "block.wither_steel.wither_steel_block": "בלוק מתכת ווית'ר",
+
+  "item.wither_steel.wither_steel": "מטיל מתכת ווית'ר",
+  "item.wither_steel.wither_steel_sword": "פלאמברז' מתכת ווית'ר",
+  "item.wither_steel.wither_dust": "אבקת ווית'ר",
+  "item.wither_steel.wither_steel_upgrade_smithing_template": "שבלונת נפחות",
+  "item.wither_steel.wither_steel_helmet": "קסדת מתכת ווית'ר",
+  "item.wither_steel.wither_steel_chestplate": "שריון מתכת ווית'ר",
+  "item.wither_steel.wither_steel_leggings": "מכנסי מתכת ווית'ר",
+  "item.wither_steel.wither_steel_boots": "מגפי מתכת ווית'ר",
+
+  "enchantment.wither_steel.retribution": "תגמול",
+
+  "upgrade.minecraft.wither_steel_upgrade": "שידרוג מתכת ווית'ר",
+  "item.minecraft.smithing_template.wither_steel.applies_to": "צויד יהלום",
+  "item.minecraft.smithing_template.wither_steel.ingredients": "מטיל מתכת ווית'ר",
+  "item.minecraft.smithing_template.wither_steel.base_slot_description": "הוסף שריון או נשק מיהלום",
+  "item.minecraft.smithing_template.wither_steel.additions_slot_description": "הוסף מטיל מתכת ווית'ר",
+
+  "advancements.wither_steel.root.description": "רכוש מטיל מתכת ווית'ר, ותתחיל דרך אחרת לשריון וחרבות",
+  "advancements.wither_steel.root.title": "נתיב חלופי",
+
+  "advancements.wither_steel.aquire_armor.description": "תשיג סש שלם של שיריון מתכת ווית'ר",
+  "advancements.wither_steel.aquire_armor.title": "כסה אותי במתכת ווית'ר"
+
+}

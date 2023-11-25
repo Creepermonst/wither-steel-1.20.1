@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "wither_steel:wither_steel"
+            ]
+          }
+        ]
+      }
+      }
+    },
+  "display": {
+    "announce_to_chat": false,
+    "background": "wither_steel:textures/block/wither_steel_block.png",
+    "description": {
+      "translate": "advancements.wither_steel.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "wither_steel:wither_steel"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.wither_steel.root.title"
+    }
+  },
+  "sends_telemetry_event": true
+}

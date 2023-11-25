@@ -1,0 +1,28 @@
+{
+  "block.wither_steel.wither_steel_block": "Block aus Witherstahl",
+
+  "item.wither_steel.wither_steel": "Witherstahlbarren",
+  "item.wither_steel.wither_steel_sword": "Witherstahl Flamberge",
+  "item.wither_steel.wither_dust": "Witherstaub",
+  "item.wither_steel.wither_steel_upgrade_smithing_template": "Schmiedevorlage",
+
+  "item.wither_steel.wither_steel_helmet": "Witherstahlhelm",
+  "item.wither_steel.wither_steel_chestplate": "Witherstahlbrustharnisch",
+  "item.wither_steel.wither_steel_leggings": "Witherstahlhose",
+  "item.wither_steel.wither_steel_boots": "Witherstahlstiefel",
+
+  "enchantment.wither_steel.retribution": "Vergeltung",
+
+  "upgrade.minecraft.wither_steel_upgrade": "Witherstahlverbesserung",
+  "item.minecraft.smithing_template.wither_steel.applies_to": "Diamantausrüstung",
+  "item.minecraft.smithing_template.wither_steel.ingredients": "Witherstahlbarren",
+  "item.minecraft.smithing_template.wither_steel.base_slot_description": "Füge Diamantrüstung oder Schwert dazu",
+  "item.minecraft.smithing_template.wither_steel.additions_slot_description": "Füge Witherstahlbarren dazu",
+
+  "advancements.wither_steel.root.description": "Beginne einen anderen Pfad für Rüstung und Schwert",
+  "advancements.wither_steel.root.title": "Ein alternativer Pfad",
+
+  "advancements.wither_steel.aquire_armor.description": "Bekomme eine vollständige Witherstahlrüstung",
+  "advancements.wither_steel.aquire_armor.title": "Bedecke mich mit Witherstahl"
+
+}

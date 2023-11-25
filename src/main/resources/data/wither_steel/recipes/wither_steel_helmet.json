@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "wither_steel:wither_steel_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "item": "wither_steel:wither_steel"
+  },
+  "result": {
+    "item": "wither_steel:wither_steel_helmet"
+  }
+}

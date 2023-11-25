@@ -1,0 +1,35 @@
+{
+  "parent": "wither_steel:wither_steel/aquire_withersteel_ingot",
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {"items": ["wither_steel:wither_steel_helmet"]},
+          {"items": ["wither_steel:wither_steel_chestplate"]},
+          {"items": ["wither_steel:wither_steel_leggings"]},
+          {"items": ["wither_steel:wither_steel_boots"]}
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.wither_steel.aquire_armor.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "wither_steel:wither_steel_chestplate"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.wither_steel.aquire_armor.title"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

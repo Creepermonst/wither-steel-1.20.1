@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "#R#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "W": {
+            "item": "wither_steel:wither_steel_upgrade_smithing_template"
+        },
+        "R": {
+            "item": "minecraft:red_nether_bricks"
+        }
+    },
+    "result": {
+        "item": "wither_steel:wither_steel_upgrade_smithing_template",
+        "count": 2
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wither_steel:item/wither_steel_sword_rescaled"
+  }
+}

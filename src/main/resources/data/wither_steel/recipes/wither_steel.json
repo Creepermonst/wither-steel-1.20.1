@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wither_steel:wither_dust"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "wither_steel:wither_dust"
+    }
+  ],
+  "result": {
+    "item": "wither_steel:wither_steel",
+    "count": 1
+  }
+}

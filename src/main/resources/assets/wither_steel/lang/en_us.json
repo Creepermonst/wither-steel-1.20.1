@@ -1,0 +1,28 @@
+{
+  "block.wither_steel.wither_steel_block": "Block of Wither Steel",
+
+  "item.wither_steel.wither_steel": "Wither Steel Ingot",
+  "item.wither_steel.wither_steel_sword": "Withersteel Flamberge",
+  "item.wither_steel.wither_dust": "Wither Dust",
+  "item.wither_steel.wither_steel_upgrade_smithing_template": "Smithing Template",
+
+  "item.wither_steel.wither_steel_helmet": "Wither Steel Helmet",
+  "item.wither_steel.wither_steel_chestplate": "Wither Steel Chestplate",
+  "item.wither_steel.wither_steel_leggings": "Wither Steel Leggings",
+  "item.wither_steel.wither_steel_boots": "Wither Steel Boots",
+
+  "enchantment.wither_steel.retribution": "Retribution",
+
+  "upgrade.minecraft.wither_steel_upgrade": "Wither Steel Upgrade",
+  "item.minecraft.smithing_template.wither_steel.applies_to": "Diamond Equipment",
+  "item.minecraft.smithing_template.wither_steel.ingredients": "Wither Steel Ingot",
+  "item.minecraft.smithing_template.wither_steel.base_slot_description": "Add diamond armor or sword",
+  "item.minecraft.smithing_template.wither_steel.additions_slot_description": "Add Wither Steel Ingot",
+
+  "advancements.wither_steel.root.description": "Aquire a Withersteel Ingot, starting a different path for armor and swords",
+  "advancements.wither_steel.root.title": "An alternate path",
+
+  "advancements.wither_steel.aquire_armor.description": "Get a full suit of Withersteel Armor",
+  "advancements.wither_steel.aquire_armor.title": "Cover Me in Withersteel"
+
+}

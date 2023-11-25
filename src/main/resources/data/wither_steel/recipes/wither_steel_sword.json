@@ -1,0 +1,16 @@
+
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "wither_steel:wither_steel"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "result": {
+    "item": "wither_steel:wither_steel_sword"
+  },
+  "template": {
+    "item": "wither_steel:wither_steel_upgrade_smithing_template"
+  }
+}
