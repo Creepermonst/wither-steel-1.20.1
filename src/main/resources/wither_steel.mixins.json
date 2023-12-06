@@ -4,7 +4,8 @@
   "package": "net.tcs.wither_steel.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "AttackMixin"
+    "AttackMixin",
+    "PlayerSweepMixin"
   ],
   "client": [
     "ItemRendererAccessor",
